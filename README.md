@@ -1,7 +1,14 @@
 # vue3-vite-ts-cms
+本项目基于最新版本Vue3和Typescript开发
 
-This template should help get you started developing with Vue 3 in Vite.
 
+感谢CoderWhy老师提供的后端接口 有需要自行添加老师微信
+
+测试帐号:coderwhy
+
+测试密码:123456
+
+有些小问题还在继续完善中
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
