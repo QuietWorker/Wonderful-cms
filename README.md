@@ -1,5 +1,11 @@
-# vue3-vite-ts-cms
+# vue3-Typescriptk开发的后台管理系统
 本项目基于最新版本Vue3和Typescript开发
+
+使用了Vite作为构建工具 Pinia作为状态管理 
+
+eslint+prettier 代码规范
+
+husky进行提交约束
 
 
 感谢CoderWhy老师提供的后端接口 有需要自行添加老师微信
